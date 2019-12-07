@@ -720,6 +720,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -740,10 +741,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ac7d97e0-5fc9-40ac-b143-1fc8761da22c
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: ColorMeBlind
+  organizationId: shayno527
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
